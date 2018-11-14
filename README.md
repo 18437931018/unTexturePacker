@@ -7,6 +7,6 @@ but sometime you need to cut the atlsa to small image with json or plist. this p
 how to use      
     type "node unPacker xxx.json" or type "node unPacker xxx.plist".
     
-      eg. type  "node unPacker gameUI.json", it will creat a folde named gameUI and the image cutted will put in this folder.
+      eg. type  "node unPacker gameUI.json", it will creat a folde named gameUI and the image cutted will be put in this folder.
   
   before this,you need to type "npm install"
