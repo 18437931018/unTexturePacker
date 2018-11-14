@@ -1,0 +1,19 @@
+{
+  "name": "unpacker",
+  "version": "1.0.0",
+  "description": "切割合图集",
+  "main": "unPacker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cut",
+    "TexturePacker"
+  ],
+  "author": "weiyh",
+  "license": "ISC",
+  "devDependencies": {
+    "images": "^3.0.1",
+    "xml2js": "^0.4.19"
+  }
+}
